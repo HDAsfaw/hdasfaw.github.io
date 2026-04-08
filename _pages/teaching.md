@@ -40,3 +40,4 @@ This experiment provides an introduction to the lock-in amplifier, a fundamental
 The lab bridges the gap between the mathematical model and its physical implementation, allowing students to gain an intuitive understanding of the inner workings of this device.
 
 
+<br><br><br><br><br><br><br>
