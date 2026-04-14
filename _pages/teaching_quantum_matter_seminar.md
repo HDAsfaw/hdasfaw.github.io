@@ -3,7 +3,7 @@ title: "Teaching - Seminar on experimental quantum matter research"
 layout: textlay
 excerpt: "Quantum matter semester"
 sitemap: false
-permalink: /teaching_SEQMR.html
+permalink: /teaching_SEQMR/
 ---
 # Seminar on experimental quantum matter research
 
