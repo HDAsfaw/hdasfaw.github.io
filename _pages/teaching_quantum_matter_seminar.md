@@ -32,6 +32,8 @@ We will update the schedule here, and comunicate per email.
 
 ### Location
 We will do the seminar in Room MU118. To find us, take the tunnel across Amalienstrasse 75. Then take the door to your right in the middle of the tunnel to enter a long corridor. You will find the door to MU118 on the right hand side.
+Sometimes (when the speaker is in Leiden), we will have the semiar on the following link
+https://lmu-munich.zoom-x.de/my/x892376.milan?pwd=g1sWzQiNXcNel1ubxyvak68gbbgqMW.1 
 
 ## Schedule
 
