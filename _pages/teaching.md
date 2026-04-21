@@ -7,7 +7,7 @@ permalink: /teaching.html
 ---
 # Seminar
 
-For the Seminar on experimental quantum matter research see [this page](https://allanlab.org/teaching_SEQMR/).
+For the Seminar on experimental quantum matter research see [this page](https://www.allanlab.org/teaching_SEQMR/).
 
 # Practical Course
 
