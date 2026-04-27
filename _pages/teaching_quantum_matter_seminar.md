@@ -40,7 +40,11 @@ https://lmu-munich.zoom-x.de/my/x892376.milan?pwd=g1sWzQiNXcNel1ubxyvak68gbbgqMW
 The schedule will change, and we will continousely update it. The student talks will be at the end.
 
 Tuesday 21.04.2026, 10:15
-In person, talk by Yudai Sato
+Hybrid, talk by Yudai Sato
 Paper to prepare: https://www.nature.com/articles/nature14165
+
+Tuesday 28.04.2026, 10:15
+Hybrid, Amber Mozes
+Paper to prepare: https://www.nature.com/articles/s42254-021-00386-3 , 	https://www.nature.com/articles/s42254-021-00386-3
 
 <br><br><br><br><br><br><br>
