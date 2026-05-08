@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Instrumente"
+title: "SMILED Lab - Equipment"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
