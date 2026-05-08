@@ -69,5 +69,5 @@ Use the official university contact info (see staff profile) for academic inquir
 </figure>
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/6226_SV_Primär_Energimyndigheten_logo_EM-SVART_CMYK" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Energimyndigheten.svg" style="width: 130px">
 </figure>
