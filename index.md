@@ -39,5 +39,3 @@ Actively collaborating with academic, industrial, and public-sector partners at 
 Use the official university contact info (see staff profile) for academic inquiries.
 
 ---
-
-*This site is designed to be hosted using GitHub Pages and written in Markdown.*  
