@@ -1,5 +1,5 @@
-# hdasfaw.github.io
-The carbon science research group group at the Ångström Laboratory (https://www.uu.se/en/campus/angstrom-laboratory)
+# Carbon in Electrochemical Devices (CED) research group
+Research group at the Ångström Laboratory (https://www.uu.se/en/campus/angstrom-laboratory)
 
 ## Principal Investigator  
 **Dr. Habtom Desta Asfaw**  
@@ -18,11 +18,11 @@ Our research group works at the intersection of applied research and interdiscip
 ## Recent Publications  
 Selected from the most recent entries on Google Scholar:
 
-- **Electrochemical performance of supercapacitor electrodes based on carbon aerogel‑reinforced spread tow carbon fiber fabrics**, *Composites Science and Technology*, 238, 110042 (2023) — 49 citations [1](https://scholar.google.com/citations?user=q4HODlIAAAAJ&hl=en)  
-- **Bio‑derived hard carbon nanosheets with high rate sodium‑ion storage characteristics**, *Sustainable Materials and Technologies*, 32, e00407 (2022) — 70 citations [1](https://scholar.google.com/citations?user=q4HODlIAAAAJ&hl=en)  
-- **Nature of the Cathode–Electrolyte Interface in Highly Concentrated Electrolytes Used in Graphite Dual‑Ion Batteries**, *ACS Appl. Mater. Interfaces*, 13 (3), 3867–3880 (2021) — 85 citations [1](https://scholar.google.com/citations?user=q4HODlIAAAAJ&hl=en)  
-- **A Lignosulfonate Binder for Hard Carbon Anodes in Sodium‑Ion Batteries: A Comparative Study**, *ACS Sustainable Chemistry & Engineering*, 9 (37), 12708–12717 (2021) — 55 citations [1](https://scholar.google.com/citations?user=q4HODlIAAAAJ&hl=en)  
-- **Facile synthesis of hard carbon microspheres from polyphenols for sodium‑ion batteries: insight into local structure and interfacial kinetics**, *Materials Today Energy*, 18, 100505 (2020) — 75 citations [1](https://scholar.google.com/citations?user=q4HODlIAAAAJ&hl=en)  
+- **Electrochemical performance of supercapacitor electrodes based on carbon aerogel‑reinforced spread tow carbon fiber fabrics**, *Composites Science and Technology*, 238, 110042 (2023) — 49 [...]
+- **Bio‑derived hard carbon nanosheets with high rate sodium‑ion storage characteristics**, *Sustainable Materials and Technologies*, 32, e00407 (2022) — 70 citations [1](https://scholar.goo[...]
+- **Nature of the Cathode–Electrolyte Interface in Highly Concentrated Electrolytes Used in Graphite Dual‑Ion Batteries**, *ACS Appl. Mater. Interfaces*, 13 (3), 3867–3880 (2021) — 85 [...]
+- **A Lignosulfonate Binder for Hard Carbon Anodes in Sodium‑Ion Batteries: A Comparative Study**, *ACS Sustainable Chemistry & Engineering*, 9 (37), 12708–12717 (2021) — 55 citations [1[...]
+- **Facile synthesis of hard carbon microspheres from polyphenols for sodium‑ion batteries: insight into local structure and interfacial kinetics**, *Materials Today Energy*, 18, 100505 (2020) …[...]
 
 A full, up-to-date publication list is available via **Google Scholar** (see link above).
 
