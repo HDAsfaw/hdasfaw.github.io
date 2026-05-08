@@ -5,7 +5,7 @@ excerpt: "SMILED Lab: wiki"
 sitemap: false
 permalink: /wiki/
 ---
-## Executive Summary
+## What is hard carbon?
 
 Hard carbon is widely regarded as the most practical anode class for sodium-ion batteries because it combines low operating potential, relatively high reversible capacity, broad precursor availability, and compatibility with scalable carbon-processing routes. Unlike graphite, which performs poorly for reversible sodium intercalation in conventional carbonate electrolytes, hard carbon contains turbostratic graphene fragments, expanded interlayer spacing, defects, heteroatoms, and open or closed pores that can host sodium through multiple storage modes.
 
@@ -15,7 +15,7 @@ Current research aims to increase reversible capacity, initial Coulombic efficie
 
 ---
 
-## 1. Background: Why Sodium-Ion Batteries Need Hard Carbon
+## 1. Why Sodium-Ion Batteries Need Hard Carbon
 
 Sodium-ion batteries are attractive for stationary storage, low-cost mobility, and supply-chain-resilient applications because sodium is abundant and widely distributed. SIBs share many engineering concepts with lithium-ion batteries, but the larger Na⁺ ion radius and different solvation/desolvation behavior impose stricter requirements on electrode host structures. The anode is particularly challenging: graphite, the dominant lithium-ion anode, does not provide sufficiently robust reversible Na⁺ storage in standard carbonate-based SIB electrolytes.
 
