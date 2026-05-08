@@ -4,7 +4,7 @@ Research group at the Ångström Laboratory (https://www.uu.se/en/campus/angstro
 ## Principal Investigator  
 **Dr. Habtom Desta Asfaw**  
 Researcher, Uppsala University  
-- [Google Scholar](https://scholar.google.com/)  
+- [Google Scholar](https://scholar.google.com/citations?user=q4HODlIAAAAJ&hl=sv)  
 - https://www.uu.se/kontakt-och-organisation/personal?query=N12-273  
 - https://www.linkedin.com/in/habtom/
 
