@@ -4,7 +4,3 @@ description: The carbon science research group group at the Ångström Laborator
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-
-  ```yml
-  remote_theme: benbalter/retlab
-  ```
