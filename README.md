@@ -1,4 +1,4 @@
-# Sustainable Materials in Electrochemical Devices (SMIEL) research group
+# Sustainable Materials in Electrochemical Devices (SMILED) research group
 Research group at the Ångström Laboratory ([https://www.uu.se/en/campus/angstrom-laboratory](https://www.uu.se/kontakt-och-organisation/personal?query=N12-273))
 
 ## Principal Investigator  
