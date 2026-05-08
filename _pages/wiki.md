@@ -1,7 +1,7 @@
 ---
 title: "SMILED Lab - Team"
-layout: gridlay
+layout: textlay
 excerpt: "SMILED Lab: wiki"
 sitemap: false
-permalink: /team/
+permalink: /wiki/
 ---
