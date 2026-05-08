@@ -1,5 +1,5 @@
-# Carbon in Electrochemical Devices (CED) research group
-Research group at the Ångström Laboratory (https://www.uu.se/kontakt-och-organisation/personal?query=N12-273)
+#  Sustainable Materials in Electrochemical Devices (SMIEL) research group
+A research group at the Ångström Laboratory (https://www.uu.se/kontakt-och-organisation/personal?query=N12-273)
 
 ## Principal Investigator  
 **Dr. Habtom Desta Asfaw**  
