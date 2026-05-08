@@ -1,4 +1,4 @@
-#  Sustainable Materials in Electrochemical Devices (SMIEL) research group
+#  Sustainable Materials in Electrochemical Devices (SMILED) research group
 Welcome to the research group of Dr. Habtom Desta Asfaw. We are part of the Structural Chemistry division and the Ångström Advanced Battery Centre (ÅABC) at Uppsala University in Sweden.
 Department of Chemistry - Ångström Laboratory, Uppsala University (https://www.uu.se/kontakt-och-organisation/personal?query=N12-273)
 
