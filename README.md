@@ -1,11 +1,8 @@
-# Allan Lab Website
-
-This is the website of our academic research group at Leiden University.
-
-This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
-
-Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
-
-
-Copyright Allan Lab. Code released under the MIT License.
+#  Sustainable Materials in Electrochemical Devices (SMILED) research group
+Welcome to the research group of Dr. Habtom Desta Asfaw. We are part of the Structural Chemistry division and the Ångström Advanced Battery Centre (ÅABC) at Uppsala University in Sweden.
+Department of Chemistry - Ångström Laboratory, Uppsala University (https://www.uu.se/kontakt-och-organisation/personal?query=N12-273) 
+Our research lies at the intersection of applied research and interdisciplinary collaboration, and centers on understanding how electrode structure (such as particle morphology, porosity, and surface area) and the stability of electrode-electrolyte interfaces dictate the performance of electrochemical systems. 
+## Contact  
+**Affiliation:** Department of Chemistry – Ångström Laboratory, Uppsala University, Sweden  
+Use the official university contact info (see staff profile) for academic inquiries.
 
