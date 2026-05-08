@@ -1,12 +1,12 @@
 ---
 title: "HD Asdaw - Home"
 layout: homelay
-excerpt: "SMILED Lab &rarr; UU."
+excerpt: "Sustainable Materials in Electrochemical Devices Lab &rarr; UU."
 sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
+**News:!** Join us! 
 
 #  Sustainable Materials in Electrochemical Devices (SMILED) research group
 Welcome to the research group of Dr. Habtom Desta Asfaw. We are part of the Structural Chemistry division and the Ångström Advanced Battery Centre (ÅABC) at Uppsala University in Sweden.
@@ -60,10 +60,8 @@ Our research lies at the intersection of applied research and interdisciplinary 
 ## Contact  
 **Affiliation:** Department of Chemistry – Ångström Laboratory, Uppsala University, Sweden  
 Use the official university contact info (see staff profile) for academic inquiries.
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
 
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
+**Contact the team** [(more info)](https://www.uu.se/kontakt-och-organisation/personal?query=N12-273) **!**
 
 
 <figure class="fifth">
