@@ -5,8 +5,8 @@ Research group at the Ångström Laboratory (https://www.uu.se/en/campus/angstro
 **Dr. Habtom Desta Asfaw**  
 Researcher, Uppsala University  
 - [Google Scholar](https://scholar.google.com/citations?user=q4HODlIAAAAJ&hl=sv)  
-- https://www.uu.se/kontakt-och-organisation/personal?query=N12-273  
-- https://www.linkedin.com/in/habtom/
+- [University Page](https://www.uu.se/kontakt-och-organisation/personal?query=N12-273)  
+- [LinkedIn](https://www.linkedin.com/in/habtom/)
 
 ## Research Focus  
 Our research group works at the intersection of applied research and interdisciplinary collaboration. Core interests include:
