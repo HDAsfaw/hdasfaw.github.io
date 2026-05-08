@@ -40,4 +40,3 @@ Use the official university contact info (see staff profile) for academic inquir
 
 ---
 
-*This site is designed to be hosted using GitHub Pages and written in Markdown.*  
