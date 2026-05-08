@@ -1,6 +1,5 @@
 # hdasfaw.github.io
 The carbon science research group group at the Ångström Laboratory (https://www.uu.se/en/campus/angstrom-laboratory)
-# Research Group
 
 ## Principal Investigator  
 **Dr. Habtom Desta Asfaw**  
