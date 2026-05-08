@@ -67,3 +67,7 @@ Use the official university contact info (see staff profile) for academic inquir
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uu-logo-red.svg" style="width: 130px">
 </figure>
+
+<figure class="fifth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/6226_SV_Primär_Energimyndigheten_logo_EM-SVART_CMYK" style="width: 130px">
+</figure>
