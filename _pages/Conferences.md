@@ -1,9 +1,9 @@
 ---
-title: "SMILED Lab - Conferences"
+title: "SMILED Lab - conferences"
 layout: textlay
-excerpt: "SMILED Lab -- Conferences"
+excerpt: "SMILED Lab -- conferences"
 sitemap: false
-permalink: /Conferences/
+permalink: /conferences/
 ---
 
 # Conferences
