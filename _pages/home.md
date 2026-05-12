@@ -74,6 +74,3 @@ Use the official university contact info (see staff profile) for academic inquir
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Energimyndigheten.png" style="width: 130px">
 </figure>
-<figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Angstrom.png" style="width: 130px">
-</figure>
