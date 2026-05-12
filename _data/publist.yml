@@ -1,41 +1,8 @@
-- title: "Cryogenic geometric anti-spring vibration isolation system"
-  image: GAS.png
-  description: TLow temperature and low vibration levels are key for scanning probe microscopy, large-mass quantum mechanics, and gravitational wave detection. Here we develop and present a new cryogenic GAS system to achieve such environments. 
-  authors: L. Feenstra, S. Dominguez-Calderon, K. van Oosten, H. S. M. Bohemen, T. Benschop, M. Brinkman, M. Li, E. Hennes, R. Cornelissen, B. J. Hensen, A. Bertolini, M. P. Allan
-  link:
-    url: https://arxiv.org/abs/2509.09010
-    display: arXiv (2025)
+- title: "Cxyz
+  image: .png
+  description:  
+  authors: L. 
+    url: https://
+    display: journal (2025)
   highlight: 1
-
-- title: "Tapping-mode SQUID-on-tip Microscopy with Proximity Josephson Junctions"
-  image: SQUIDGAME.png
-  description: We measure measure non-equilibrium properties such as current and dissipation, and their relation to structure, which a novel SQUID-AFM. Collaboration with the [Lahabi Lab](https://www.lahabilab.com), led by Matthijs Rog.
-  authors: Matthijs Rog, Tycho J. Blom, Daan B. Boltje, Jimi D. de Haan, Remko Fermin, Jiasen Niu, Yasmin C. Doedes, Milan P. Allan, Kaveh Lahabi
-  link:
-    url: https://arxiv.org/pdf/2508.21575
-    display: arxiv (2025)
-  highlight: 1
-
-
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
-  image: BSCCOgap.png
-  description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41563-023-01497-1
-    display: Nature Materials 22, 703 (2023)
-  highlight: 1
-  news1: See [News and Views](https://www.nature.com/articles/s41563-023-01552-x) by Yu He.
-
-
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
-  link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
-  highlight: 1
-  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
 
