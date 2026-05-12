@@ -14,7 +14,7 @@ permalink: /publications/
 **At the end of this page, you can find the [full list of publications and patents](#). All papers are also available on [](website).**
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for publi in site.data. %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
@@ -27,9 +27,9 @@ permalink: /publications/
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ x.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
+  <p>{{ publi.descrip }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p><strong><a href="{{ url }}">{{ .display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
