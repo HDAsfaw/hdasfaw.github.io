@@ -7,18 +7,18 @@ permalink: /instrumente.html
 ---
 
 
-## Hier paar Bilder von laufenden und abgeschlossenen Projekten
+## Below are the research facility available to our research group
 
-### Rastertunnelmikroskop "Dome" 
-![image](/images/inst/DomePlan.jpg){:class="img-responsive"}
-![image](/images/inst/domescrew.jpg){:class="img-responsive" width="75%"}
-![image](/images/inst/build.jpg){:class="img-responsive" width="35%"}
-![image](/images/inst/dometest.jpg){:class="img-responsive"}
-![image](/images/inst/domebig.jpg){:class="img-responsive"}
+### Scanning electron microscopes in the MyFab Uppsala https://myfab.se/labs/myfab-uppsala/ 
+![image](/images/inst/X.jpg){:class="img-responsive"}
+![image](/images/inst/y.jpg){:class="img-responsive" width="75%"}
+![image](/images/inst/z.jpg){:class="img-responsive" width="35%"}
+![image](/images/inst/x.jpg){:class="img-responsive"}
+![image](/images/inst/y.jpg){:class="img-responsive"}
 
-### Rastertunnelmikroskop "STM4" 
-![image](/images/inst/STM4.jpg){:class="img-responsive"}
+### Raman spectrometer
+![image](/images/inst/x.jpg){:class="img-responsive"}
 
 
-### Rastertunnelmikroskop "Tama" 
-![image](/images/inst/tama.jpeg){:class="img-responsive" width="75%"}
+### Ångström Advanced Battery Centre
+![image](/images/inst/y.jpeg){:class="img-responsive" width="75%"}
