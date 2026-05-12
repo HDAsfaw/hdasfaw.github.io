@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-**At the end of this page, you can find the [](#). All papers are also available on [](website).**
+**At the end of this page, you can find the [](#). All papers are also available on []().**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data. %}
