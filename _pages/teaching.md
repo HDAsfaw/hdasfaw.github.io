@@ -7,7 +7,7 @@ permalink: /teaching.html
 ---
 # Seminar
 
-For the Seminar on experimental quantum matter research see [this page](https://www.sl.org/teaching_/).
+For the Seminar on ... see [this page]().
 
 # Practical Course
 
@@ -86,11 +86,11 @@ Written test at the end of the course, corresponding to **4 credits**, and labor
 
 If there are special reasons for doing so, an examiner may make an exception from the method of assessment indicated and allow a student to be assessed by another method. An example of special reasons might be a certificate regarding special pedagogical support from the disability coordinator of the university. [1](https://www.uu.se/en/study/syllabus?query=38010)
 
-## Reading List
+### Reading List
 
 Syllabus for Batteries and Storage. [1](https://www.uu.se/en/study/syllabus?query=38010)
 
-## Valid From
+### Valid From
 
 The syllabus is valid from **Autumn 2019**. [1](https://www.uu.se/en/study/syllabus?query=38010)
 -------
