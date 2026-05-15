@@ -9,7 +9,7 @@ permalink: /teaching.html
 
 For the Seminar on ... see [this page]().
 
-# Practical Course
+# Course at UU
 
 ## Batteries and Energy storage
 
