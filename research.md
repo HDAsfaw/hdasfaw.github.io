@@ -51,21 +51,21 @@ Use the official university contact info (see staff profile) for academic inquir
 **carbon materials.** battt.
 
 **interfaces**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/HC.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
 interfacesss.
 
 **graphite intercalation compounds.** gicsssssssssssssssss.
 
 
 
-**biomass-derived carbons.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
+**biomass-derived carbons.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/HC.jpg){: style="width: 250px; float: right; margin: 0px 10px"}
 publications.
 
 
 **natural graphite.** industrial research focused purifying natural graphite. 
 
 **data-driven synthesis.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/HC.jpg){: style="width: 70%; float: center; margin: 10px"}
 
 
 
