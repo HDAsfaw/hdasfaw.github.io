@@ -92,7 +92,7 @@ Syllabus for Batteries and Storage. [1](https://www.uu.se/en/study/syllabus?quer
 
 ### Valid From
 
-The syllabus is valid from **Autumn 2019**. [1](https://www.uu.se/en/study/syllabus?query=38010)
+### The syllabus is valid from **Autumn 2019**. [1](https://www.uu.se/en/study/syllabus?query=38010)
 -------
 
 
