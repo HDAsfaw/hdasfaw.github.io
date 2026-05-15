@@ -51,7 +51,7 @@ Use the official university contact info (see staff profile) for academic inquir
 **carbon materials.** battt.
 
 **interfaces**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/HC.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/images_large_am0c18586_0009.jpeg){: style="width: 250px; float: left; margin: 0px  10px"}
 interfacesss.
 
 **graphite intercalation compounds.** gicsssssssssssssssss.
