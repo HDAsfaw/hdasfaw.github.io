@@ -1,9 +1,10 @@
-- title: "Publications"
-  image: ".png"
-  description: ""
+- title: "“Energy-Efficient Induction Carbonization: Tailoring Pore Structures in Hard Carbon Anodes Toward Enhanced Electrochemical Performance"
+  image: "cey270243-fig-0001-m.jpg"
+  description: "Induction heating carbonization strategy is developed for extruded biocarbon columns derived from biomass-based biochar and bio-oil, 
+  enabling simultaneous enhancement of electrochemical performance and production sustainability."
   authors:
-    name: "L."
-    url: "https://scholar.google.com/citations?user=q4HODlIAAAAJ&hl=sv"
-    display: "journal (2025)"
+    name: "Y.Jin, M.Sun, Z.Shi, et al."
+    url: "https://https://doi.org/10.1002/cey2.70243"
+    display: "Carbon Energy0 (2026): e70243"
   highlight: 1
 
