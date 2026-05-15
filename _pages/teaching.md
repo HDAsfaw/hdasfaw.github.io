@@ -14,7 +14,7 @@ For the Seminar on ... see [this page]().
 # Batteries and Energy storage
 
 
-## Syllabus for Batteries and Storage
+## Syllabus
 
 **Batteries and Storage**  
 **5 credits**  
