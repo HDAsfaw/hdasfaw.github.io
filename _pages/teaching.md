@@ -11,10 +11,10 @@ For the Seminar on ... see [this page]().
 
 # Course at UU
 
-## Batteries and Energy storage
+# Batteries and Energy storage
 
 
-# Syllabus for Batteries and Storage
+## Syllabus for Batteries and Storage
 
 **Batteries and Storage**  
 **5 credits**  
