@@ -58,7 +58,7 @@ interfacesss.
 
 
 
-**biomass-derived carbons.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/HC.jpg){: style="width: 250px; float: right; margin: 0px 10px"}
+**biomass-derived carbons.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/processes-11-00764-g008.png){: style="width: 250px; float: right; margin: 0px 10px"}
 publications.
 
 
