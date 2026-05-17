@@ -275,7 +275,7 @@ publications.
 | | |
 |---|---|
 | **Email** | [habtom.desta.asfaw@kemi.uu.se](mailto:habtom.desta.asfaw@kemi.uu.se) |
-| **Phone** | +46 18 471 00 00 (Uppsala University switchboard) |
+| **Phone** |  |
 | **Visiting address** | Lägerhyddsvägen 1, Ångström Laboratory, Uppsala |
 | **Postal address** | Box 538, 751 21 Uppsala, Sweden |
 | **Department** | Department of Chemistry – Ångström, Structural Chemistry |
