@@ -98,6 +98,28 @@ Gas adsorption (BET) · Scanning and transmission electron microscopy · Raman a
 
 A curated set of recent, high-impact contributions. The full chronological list appears below.
 
+**sodium-ion batteries.** batttttt.
+
+
+**carbon materials.** battt.
+
+**interfaces**.
+![]({{ site.url }}{{ site.baseurl }}/images/respic/images_large_am0c18586_0009.jpeg){: style="width: 250px; float: left; margin: 0px  10px"}
+interfacesss.
+
+**graphite intercalation compounds.** gicsssssssssssssssss.
+
+
+
+**biomass-derived carbons.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/processes-11-00764-g008.png){: style="width: 250px; float: right; margin: 0px 10px"}
+publications.
+
+
+**natural graphite.** industrial research focused purifying natural graphite. 
+
+**data-driven synthesis.**
+![]({{ site.url }}{{ site.baseurl }}/images/respic/HC.jpg){: style="width: 70%; float: center; margin: 10px"}
+
 ### 2024 — Review
 
 - **Charting the course to solid-state dual-ion batteries.**
@@ -275,24 +297,3 @@ A curated set of recent, high-impact contributions. The full chronological list 
 **Affiliation:** Department of Chemistry – Ångström Laboratory, Uppsala University, Sweden  
 Use the official university contact info (see staff profile) for academic inquiries.
 
-**sodium-ion batteries.** batttttt.
-
-
-**carbon materials.** battt.
-
-**interfaces**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/images_large_am0c18586_0009.jpeg){: style="width: 250px; float: left; margin: 0px  10px"}
-interfacesss.
-
-**graphite intercalation compounds.** gicsssssssssssssssss.
-
-
-
-**biomass-derived carbons.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/processes-11-00764-g008.png){: style="width: 250px; float: right; margin: 0px 10px"}
-publications.
-
-
-**natural graphite.** industrial research focused purifying natural graphite. 
-
-**data-driven synthesis.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/HC.jpg){: style="width: 70%; float: center; margin: 10px"}
