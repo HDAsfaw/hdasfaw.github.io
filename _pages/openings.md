@@ -17,7 +17,7 @@ We are  looking for new group members ...!
 ### Past open positions
 
 You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
+[Opening 1]({{ site.baseurl }}/downloads/.pdf),
 
 ### Applications for PhD and Postdoc positions
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](habtom.desta.asfaw@kemi.uu.se). Attach a CV. 
