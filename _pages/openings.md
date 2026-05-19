@@ -21,7 +21,7 @@ You find the past job openings here:
 
 ### Applications for PhD and Postdoc positions
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](habtom.desta.asfaw@kemi.uu.se). Attach a CV. 
-Apply to our group. Take a look at the [veni fellowship](https://www.) , [moreinfo]({{ site.baseurl }}/downloads/file.pdf)). support.**
+Apply to our group. Take a look at the [veni fellowship](https://www.) , [moreinfo]({{ site.baseurl }}/downloads/.pdf)). support.**
 
 
 ### Master projects 
