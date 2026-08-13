@@ -1,7 +1,7 @@
 ---
-title: "SMILED Lab - Research"
+title: "Disordered Materials Lab - Research"
 layout: textlay
-excerpt: "SMILED Lab -- Research"
+excerpt: "Disordered Materials Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
