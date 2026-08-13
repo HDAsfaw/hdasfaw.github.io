@@ -1,5 +1,5 @@
 ---
-title: "SMILED Lab - Vacancies"
+title: "Disordered Materials Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
