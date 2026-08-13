@@ -1,14 +1,14 @@
 ---
 title: "HD Asdaw - Home"
 layout: homelay
-excerpt: "Sustainable Materials in Electrochemical Devices Lab &rarr; UU."
+excerpt: "Disordered Materials and Electrochemistry Lab &rarr; UU."
 sitemap: false
 permalink: /
 ---
 
 **News:!** Join us! 
 
-#  Sustainable Materials in Electrochemical Devices (SMILE) research group
+#  Disordered Materials and Electrochemistry research group
 Welcome to the research group of Dr. Habtom Desta Asfaw. We are part of the Structural Chemistry division and the Ångström Advanced Battery Centre (ÅABC) at Uppsala University in Sweden.
 Department of Chemistry - Ångström Laboratory, Uppsala University (https://www.uu.se/kontakt-och-organisation/personal?query=N12-273) 
 Our research lies at the intersection of applied research and interdisciplinary collaboration, and centers on understanding how electrode structure (such as particle morphology, porosity, and surface area) and the stability of electrode-electrolyte interfaces dictate the performance of electrochemical systems. 
