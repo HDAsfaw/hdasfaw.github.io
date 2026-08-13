@@ -1,5 +1,5 @@
 ---
-title: "SMILED Lab - Equipment"
+title: "Disordered Materials Lab - Equipment"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
