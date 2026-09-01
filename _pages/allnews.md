@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "SMILED Lab at UU."
+excerpt: "Disordered Materials Lab at UU."
 sitemap: false
 permalink: /allnews.html
 ---
