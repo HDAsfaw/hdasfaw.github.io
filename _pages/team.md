@@ -1,7 +1,7 @@
 ---
 title: "SMILED Lab - Team"
 layout: gridlay
-excerpt: "SMILED Lab: Team members"
+excerpt: "Disordered Materials and Electrochemistry Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
