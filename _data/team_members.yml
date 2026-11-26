@@ -6,12 +6,31 @@
   education1: Master Materials for Energy Storage and Conversion MESC, MSc at <a href="https://www.univ-tlse3.fr/"> CIRIMAT Laboratory</a>, Université Paul Sabatier
   education2: PhD Uppsala University <a href="http://uu.se/">MX</a>
   education3: Postdoc Imperial College London <a href="http://www.imperial.ac.uk/">
-  
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+
+  - name: Monalisa Chakraborty
+  photo:
+  info: Postdoc See <a href="https://www.uu.se/en/contact-and-organisation/staff?query=N25-470">openings</a> for more info
   email: milan.allan@gmail.com
-  number_educ: 0
+  number_educ: 3
   education1:
   education2:
   education3:
+  
+- name: Jiayi Liu
+  photo:
+  info: PhD student See <a href="https://www.uu.se/en/contact-and-organisation/staff?query=N26-1613">openings</a> for more info
+  email: milan.allan@gmail.com
+  number_educ: 3
+  education1:
+  education2:
+  education3:
+  
+- name: Akshay Biju
+  photo:
+  info: PhD student See <a href="https://www.uu.se/en/contact-and-organisation/staff?query=N26-1718">openings</a> for more info
+  email: milan.allan@gmail.com
+  number_educ: 3
+  education1:
+  education2:
+  education3:
+  
